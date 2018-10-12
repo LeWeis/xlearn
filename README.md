@@ -5,6 +5,7 @@
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 
 ## What is xLearn?
+（北大团队_马超等，开发的机器学习库）
 
 xLearn is a ***high performance***, ***easy-to-use***, and ***scalable*** machine learning package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM), which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems in recent years. If you are the user  of liblinear, libfm, or libffm, now xLearn is your another better choice.
 
